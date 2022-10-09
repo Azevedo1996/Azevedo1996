@@ -1,15 +1,10 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Leonardo,+seja+bem+vindo.;Cientista+de+Dados.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Leonardo.;Cientista+de+Dados.)](https://git.io/typing-svg)
 Sobre mim 🚀
 
 ![GitHub estatísticas - Leonardo Azevedo ](https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Leonardo,+seja+bem+vindo.+.)](https://git.io/typing-svg)
- 
-This site was built using [GitHub Pages]([https://pages.github.com/](https://www.linkedin.com/in/azevedo-leonardo/)).
 
  
  
