@@ -3,14 +3,7 @@ Sobre mim 🚀
 
 ![GitHub estatísticas - Leonardo Azevedo ](https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=Python,SQl, Mysql, PHP, Pandas, Numpy)](https://github.com/Azevedo1996/github-readme-stats)
-
-<a href="https://github.com/Azevedo1996/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Azevedo1996&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Azevedo1996/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Azevedo1996&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=python,sql, mysql, php, pandas, numpy)](https://github.com/Azevedo1996/github-readme-stats)
 
 <!--
 **Azevedo1996/Azevedo1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
