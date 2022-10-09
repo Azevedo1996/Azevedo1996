@@ -5,7 +5,7 @@
 ### 🔹Linguagem:ㅤㅤㅤㅤㅤㅤㅤ
 
 <p style="padding:6px;">
-    <a href="https://www.python.org" target="_blank"> <img src="https://banner2.cleanpng.com/20180509/ryw/kisspng-web-development-python-computer-programming-java-p-5af297e3c6e497.5621462315258480358147.jpg"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG-Image.png"/> </a>
     </p>
 
 
