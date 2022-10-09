@@ -1,12 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Leonardo.;Cientista+de+Dados.)](https://git.io/typing-svg)
 
-![GitHub estatísticas - Leonardo Azevedo ](https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azevedo1996&repo=github-readme-stats)](https://github.com/Azevedo1996/github-readme-stats)
- 
- 
 # 🔥 Skills 🔥
 
 ### 🔹Linguagem:ㅤㅤㅤㅤㅤㅤㅤ
@@ -20,7 +13,7 @@
 <p style="padding:10px;"> 
     <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a style="padding:15px;" href="https://www.php.net" target="_blank"> <img src="https://www.php.net/images/logos/php-logo.svg" height=60 width=60 /> </a>
-    <a style="padding:15px;" href="https://www.mysql.com" target="_blank"> <img src="[https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120](https://s2.glbimg.com/WcVu50imQYm5GntBKg-J5RkOAQA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/y/M/W5GFw3Qh2YwD5XkhUM2Q/2012-04-17-mysql-logos.gif)" height=60 width=105 /> </a>
+    <a style="padding:15px;" href="https://www.mysql.com" target="_blank"> <img src="(https://s2.glbimg.com/WcVu50imQYm5GntBKg-J5RkOAQA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/y/M/W5GFw3Qh2YwD5XkhUM2Q/2012-04-17-mysql-logos.gif)" height=60 width=105 /> </a>
 </p>
 
 ### 🔹Ferramentas:ㅤㅤㅤㅤㅤㅤㅤㅤ
@@ -32,20 +25,9 @@
 </p>
 
 
-# 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+# 📈 Estatisticas 📈
+![GitHub estatísticas - Leonardo Azevedo ](https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=dark)
 
-<p align="center">
-  <a href="https://github.com/AdityaKumar28">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdityaKumar28&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=AdityaKumar28&theme=react-dark" />
-</a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-</div
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azevedo1996&repo=github-readme-stats)](https://github.com/Azevedo1996/github-readme-stats)
