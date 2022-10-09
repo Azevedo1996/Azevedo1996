@@ -1,11 +1,7 @@
 ### Hi there 👋
 Sobre mim 🚀
 
-[![GitHub estatísticas - Leonardo Azevedo ](https://github-readme-stats.vercel.app/api?username=Azevedo1996)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub estatísticas - Leonardo Azevedo ](https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![GitHub estatísticas - Leonardo Azevedo ](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azevedo1996&repo=github-readme-stats)](https://github.com/Azevedo1996/github-readme-stats)
 
