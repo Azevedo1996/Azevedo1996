@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Leonardo.;Cientista+de+Dados.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Leonardo;Cientista+de+Dados;Meus+interesses+são+python+ciencia+de+dados+inteligencia+de+negocios.)](https://git.io/typing-svg)
 
 
 # 🔥 Skills 🔥
@@ -32,6 +32,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=javascript,html)](https://github.com/Azevedo1996/github-readme-stats)
 
 
-👀 Meus interesses são em python, ciência de dados, inteligência de negócios, engenharia de dados, inteligência artificial e aprendizado de máquina.
-🌱 Atualmente estou aprendendo e aprimorando ciência de dados e inteligência artificial.
-📫 Você pode me encontrar no linkedin -> https://www.linkedin.com/in/azevedo-leonardo/
