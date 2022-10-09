@@ -6,7 +6,7 @@ Sobre mim 🚀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=python,sql, mysql, php, pandas, numpy)](https://github.com/Azevedo1996/github-readme-stats)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Leonardo,+seja+bem+vindo.)](https://git.io/typing-svg)
  
 This site was built using [GitHub Pages]([https://pages.github.com/](https://www.linkedin.com/in/azevedo-leonardo/)).
 
