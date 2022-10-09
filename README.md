@@ -1,10 +1,15 @@
 ### Hi there 👋
 Sobre mim 🚀
 
-[![Leonardo Azevedo GitHub stats](https://github-readme-stats.vercel.app/api?username=Azevedo1996)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub estatísticas - Leonardo Azevedo ](https://github-readme-stats.vercel.app/api?username=Azevedo1996)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub estatísticas - Leonardo Azevedo ](https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azevedo1996&repo=github-readme-stats)](https://github.com/Azevedo1996/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=Python,SQl, Mysql, PHP, Pandas, Numpy)](https://github.com/Azevedo1996/github-readme-stats)
 
 <!--
 **Azevedo1996/Azevedo1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
