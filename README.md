@@ -6,6 +6,7 @@ Sobre mim 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azevedo1996&repo=github-readme-stats)](https://github.com/Azevedo1996/github-readme-stats)
  
  
 <!--
