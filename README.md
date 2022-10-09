@@ -4,7 +4,7 @@
 
 ### 🔹Linguagem:ㅤㅤㅤㅤㅤㅤㅤ
 
-<p style="padding:10px;">
+<p style="padding:6px;">
     <a href="https://www.python.org" target="_blank"> <img src="https://www.python.org/static/img/python-logo@2x.png"/> </a>
     </p>
 
@@ -28,6 +28,4 @@
 
 ![GitHub estatísticas - Leonardo Azevedo ](https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azevedo1996&repo=github-readme-stats)](https://github.com/Azevedo1996/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=javascript,html)](https://github.com/Azevedo1996/github-readme-stats)
