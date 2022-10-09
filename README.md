@@ -6,23 +6,7 @@ Sobre mim 🚀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&hide=python,sql, mysql, php, pandas, numpy)](https://github.com/Azevedo1996/github-readme-stats)
 
 
-Main skills:
-PYTHON MYSQL PHP
-
-Ferramentas:
-Visual Studio Code
-Jupytter Notebook
-Google Colab
-
-GitHub  Windows  microsoft-office  Linux 
-
-Outros Conhecimentos:
-PANDAS  NUMPY STREAMLIT 
-
-Estudando no momento:
-PYTHON 
-
-Contatos:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=OLÁ,+line+of+text;meu nome é Leonardo.+line+of+text)](https://git.io/typing-svg)
  
  
  
