@@ -61,6 +61,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=tokyonight&hide_border=false)
+<p align="left">
+  <img src="./assets/github-profile-card.svg" alt="GitHub Profile" width="520"/>
+</p>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&layout=compact&theme=tokyonight&hide=html,css,javascript,java,jupyter%20notebook)
+<p align="left">
+  <img src="./assets/tech-focus-card.svg" alt="Linguagens e Tecnologias" width="520"/>
+</p>
