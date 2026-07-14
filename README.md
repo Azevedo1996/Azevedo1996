@@ -8,14 +8,14 @@
   <li>🔭 Atualmente estou trabalhando na empresa <strong>Minsait Brasil</strong></li>
   <li>🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong></li>
   <li>🔐 Pós-graduado em <strong>Segurança da Informação</strong></li>
-  <li>📫 Como chegar até mim: <a href="mailto:azevedoleo11@gmail.com">azevedoleo11@gmail.com</a></li>
+  <li>🐧 Especialista em <strong>Linux, Docker, Zabbix, Grafana e automação</strong></li>
 </ul>
 
 <h3 align="left">Conecte-se comigo:</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" />
+    https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg
   </a>
 </p>
 
