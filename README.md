@@ -1,11 +1,12 @@
 <h1 align="center">Olá 👋, eu sou Leonardo Azevedo!</h1>
-<h3 align="center">Cientista de Dados e Dev em evolução!</h3>
+<h3 align="center">Analista de Infraestrutura especialista em Linux</h3>
 
 - 🔭 Atualmente estou trabalhando na empresa **Minsait Brasil**
 
-- 🌱 No momento estou cursando **Analise e Desenvlvimento de Sistemas**
+- 🌱 Formado em **Analise e Desenvlvimento de Sistemas**
+- 🌱 Pós graduado em **Segurança da Informação**
 
-- 📫 Como chegar até mim **devleonardoazevedo@gmail.com**
+- 📫 Como chegar até mim **azevedoleo11@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="center">
