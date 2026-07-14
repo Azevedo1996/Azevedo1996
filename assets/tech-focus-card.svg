@@ -6,21 +6,21 @@
     </linearGradient>
   </defs>
   <rect width="520" height="220" rx="14" fill="url(#bg)" stroke="#30363D"/>
-  <text x="26" y="44" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Linguagens e Tecnologias</text>
-  <text x="26" y="72" fill="#9CA3AF" font-family="Segoe UI, Arial, sans-serif" font-size="14">Stack em destaque no perfil</text>
+  <text x="26" y="44" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Linguagens e Tecnologias</text>
+  <text x="26" y="72" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="14">Stack em destaque no perfil</text>
   <g transform="translate(30,105)">
     <rect width="360" height="18" rx="9" fill="#0F172A"/>
     <rect width="170" height="18" rx="9" fill="#3776AB"/>
-    <text x="378" y="14" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="13">Python</text>
+    <text x="378" y="14" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="13">Python</text>
   </g>
   <g transform="translate(30,137)">
     <rect width="360" height="18" rx="9" fill="#0F172A"/>
     <rect width="125" height="18" rx="9" fill="#777BB4"/>
-    <text x="378" y="14" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="13">PHP</text>
+    <text x="378" y="14" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="13">PHP</text>
   </g>
   <g transform="translate(30,169)">
     <rect width="360" height="18" rx="9" fill="#0F172A"/>
     <rect width="205" height="18" rx="9" fill="#4EAA25"/>
-    <text x="378" y="14" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="13">Shell/Bash</text>
+    <text x="378" y="14" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="13">Shell/Bash</text>
   </g>
 </svg>

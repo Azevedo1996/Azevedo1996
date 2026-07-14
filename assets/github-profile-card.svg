@@ -10,23 +10,28 @@
       <stop offset="1" stop-color="#38BDF8"/>
     </linearGradient>
   </defs>
+
   <rect width="520" height="220" rx="14" fill="url(#bg)" stroke="#30363D"/>
   <rect x="24" y="24" width="472" height="4" rx="2" fill="url(#line)"/>
-  <text x="26" y="62" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">GitHub Profile</text>
-  <text x="26" y="92" fill="#9CA3AF" font-family="Segoe UI, Arial, sans-serif" font-size="14">Azevedo1996</text>
+
+  <text x="26" y="62" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">GitHub Profile</text>
+  <text x="26" y="92" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="14">Azevedo1996</text>
+
   <g transform="translate(26,118)">
     <rect width="140" height="58" rx="10" fill="#0F172A" stroke="#334155"/>
-    <text x="16" y="24" fill="#70A5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Foco</text>
-    <text x="16" y="44" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Infra Linux</text>
+    <text x="16" y="24" fill="#70A5FD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Foco</text>
+    <text x="16" y="44" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Infra Linux</text>
   </g>
+
   <g transform="translate(190,118)">
     <rect width="140" height="58" rx="10" fill="#0F172A" stroke="#334155"/>
-    <text x="16" y="24" fill="#BF91F3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Stack</text>
-    <text x="16" y="44" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Docker & Zabbix</text>
+    <text x="16" y="24" fill="#BF91F3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Stack</text>
+    <text x="16" y="44" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Docker e Zabbix</text>
   </g>
+
   <g transform="translate(354,118)">
     <rect width="140" height="58" rx="10" fill="#0F172A" stroke="#334155"/>
-    <text x="16" y="24" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Monitoramento</text>
-    <text x="16" y="44" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Grafana</text>
+    <text x="16" y="24" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Monitoramento</text>
+    <text x="16" y="44" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Grafana</text>
   </g>
 </svg>
