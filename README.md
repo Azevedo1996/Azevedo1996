@@ -1,70 +1,59 @@
 <h1 align="center">Olá 👋, eu sou Leonardo Azevedo!</h1>
+
 <h3 align="center">Analista de Infraestrutura | Linux | Docker | Zabbix | Grafana</h3>
 
+---
+
 - 🔭 Atualmente atuando na **Minsait Brasil**
-- 💼 Especializado em administração de ambientes Linux
-- 🌱 Formado em **Análise e Desenvolvimento de Sistemas**
-- 🎓 Pós-graduado em **Segurança da Informação**
-- 🐧 Experiência com Linux, Docker, Zabbix, Grafana e automação
+- 🐧 Especializado em administração de ambientes **Linux**
+- 🐳 Experiência com **Docker**, containers e ambientes em rede
+- 📊 Atuação com monitoramento usando **Zabbix** e **Grafana**
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+- 🔐 Pós-graduado em **Segurança da Informação**
 - 📫 Contato: **azevedoleo11@gmail.com**
+
+---
 
 <h3 align="center">Conecte-se comigo</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/azevedo-leonardo" target="_blank">
-https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/azevedo-leonardo" target="_blank">
+    https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+  </a>
 </p>
 
-<h3 align="center">Tecnologias e Ferramentas</h3>
+---
+
+<h3 align="center">Linguagens que utilizo</h3>
 
 <p align="center">
-
-inux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" target="_blank">
-/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
--scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-</a>
-
-.org/" target="_blank">
-icons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-</a>
-
-www.php.net/" target="_blank">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-icons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-</a>
-
+  https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+  https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 </p>
 
-<h3 align="center">Monitoramento e Observabilidade</h3>
+---
+
+<h3 align="center">Infraestrutura, Banco de Dados e Ferramentas</h3>
 
 <p align="center">
+  https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+  https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+  https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white
+  https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
+  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+</p>
 
-<img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix=white
+---
 
-://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<h3 align="center">GitHub Stats</h3>
 
-<img src="https://img.shields.io/badge/6ED?style=for-the-badge&logo=docker&logoColor=white
-
-<img src="https://img.shields.io/badge/Linux-Fe=for-the-badge&logo=linux&logoColor=black
-
+<p align="center">
+  https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=tokyonight&locale=pt-br
 </p>
 
 <p align="center">
-://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-.app/api/top-langs/?username=Azevedo1996&layout=compact&theme=tokyonight" />
+  https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&layout=compact&theme=tokyonight&locale=pt-br&hide=html,css,javascript,java,jupyter%20notebook
 </p>
