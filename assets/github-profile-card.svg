@@ -1,0 +1,32 @@
+<svg width="520" height="220" viewBox="0 0 520 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="520" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A1B27"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#70A5FD"/>
+      <stop offset="0.5" stop-color="#BF91F3"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="220" rx="14" fill="url(#bg)" stroke="#30363D"/>
+  <rect x="24" y="24" width="472" height="4" rx="2" fill="url(#line)"/>
+  <text x="26" y="62" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">GitHub Profile</text>
+  <text x="26" y="92" fill="#9CA3AF" font-family="Segoe UI, Arial, sans-serif" font-size="14">Azevedo1996</text>
+  <g transform="translate(26,118)">
+    <rect width="140" height="58" rx="10" fill="#0F172A" stroke="#334155"/>
+    <text x="16" y="24" fill="#70A5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Foco</text>
+    <text x="16" y="44" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Infra Linux</text>
+  </g>
+  <g transform="translate(190,118)">
+    <rect width="140" height="58" rx="10" fill="#0F172A" stroke="#334155"/>
+    <text x="16" y="24" fill="#BF91F3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Stack</text>
+    <text x="16" y="44" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Docker & Zabbix</text>
+  </g>
+  <g transform="translate(354,118)">
+    <rect width="140" height="58" rx="10" fill="#0F172A" stroke="#334155"/>
+    <text x="16" y="24" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Monitoramento</text>
+    <text x="16" y="44" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Grafana</text>
+  </g>
+</svg>
