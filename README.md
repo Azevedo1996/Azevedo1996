@@ -1,21 +1,70 @@
 <h1 align="center">Olá 👋, eu sou Leonardo Azevedo!</h1>
-<h3 align="center">Analista de Infraestrutura especialista em Linux</h3>
+<h3 align="center">Analista de Infraestrutura | Linux | Docker | Zabbix | Grafana</h3>
 
-- 🔭 Atualmente estou trabalhando na empresa **Minsait Brasil**
+- 🔭 Atualmente atuando na **Minsait Brasil**
+- 💼 Especializado em administração de ambientes Linux
+- 🌱 Formado em **Análise e Desenvolvimento de Sistemas**
+- 🎓 Pós-graduado em **Segurança da Informação**
+- 🐧 Experiência com Linux, Docker, Zabbix, Grafana e automação
+- 📫 Contato: **azevedoleo11@gmail.com**
 
-- 🌱 Formado em **Analise e Desenvlvimento de Sistemas**
-- 🌱 Pós graduado em **Segurança da Informação**
+<h3 align="center">Conecte-se comigo</h3>
 
-- 📫 Como chegar até mim **azevedoleo11@gmail.com**
-
-<h3 align="left">Conecte-se comigo:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/azevedo-leonardo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azevedo-leonardo/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/azevedo-leonardo" target="_blank">
+https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="center">Tecnologias e Ferramentas</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azevedo1996&show_icons=true&locale=en&layout=compact" alt="azevedo1996" /></p>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azevedo1996&show_icons=true&locale=en" alt="azevedo1996" /></p>
+inux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" target="_blank">
+/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+</a>
+
+.org/" target="_blank">
+icons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+</a>
+
+www.php.net/" target="_blank">
+https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+icons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+</a>
+
+</p>
+
+<h3 align="center">Monitoramento e Observabilidade</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix=white
+
+://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+<img src="https://img.shields.io/badge/6ED?style=for-the-badge&logo=docker&logoColor=white
+
+<img src="https://img.shields.io/badge/Linux-Fe=for-the-badge&logo=linux&logoColor=black
+
+</p>
+
+<p align="center">
+://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+.app/api/top-langs/?username=Azevedo1996&layout=compact&theme=tokyonight" />
+</p>
