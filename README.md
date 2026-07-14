@@ -17,7 +17,7 @@
 <h3 align="center">Conecte-se comigo</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/azevedo-leonardo" target="_blank">
+  <a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank">
     https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
   </a>
 </p>
@@ -27,9 +27,15 @@
 <h3 align="center">Linguagens que utilizo</h3>
 
 <p align="center">
-  https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+  https://www.gnu.org/software/bash/
+    https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+  </a>
 </p>
 
 ---
@@ -37,13 +43,28 @@
 <h3 align="center">Infraestrutura, Banco de Dados e Ferramentas</h3>
 
 <p align="center">
-  https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-  https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+  https://www.linux.org/
+    https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg
+  </a>
+  https://www.docker.com/
+    https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg
+  </a>
+  https://grafana.com/
+    https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg
+  </a>
+</p>
+
+<p align="center">
   https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white
-  https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
-  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 </p>
 
 ---
@@ -51,9 +72,13 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=tokyonight&locale=pt-br
+  https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br
 </p>
 
 <p align="center">
   https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&layout=compact&theme=tokyonight&locale=pt-br&hide=html,css,javascript,java,jupyter%20notebook
+</p>
+
+<p align="center">
+  https://github-readme-streak-stats.herokuapp.com/?user=Azevedo1996&theme=tokyonight&locale=pt_BR
 </p>
