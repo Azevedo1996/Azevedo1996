@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
 </p>
 
@@ -61,10 +61,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azevedo1996&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;locale=pt-br" alt="GitHub Stats"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=tokyonight&hide_border=false)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&amp;layout=compact&amp;theme=tokyonight&amp;locale=pt-br&amp;hide=html,css,javascript,java,jupyter%20notebook" alt="Linguagens mais usadas"/>
-</p>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&layout=compact&theme=tokyonight&hide=html,css,javascript,java,jupyter%20notebook)
