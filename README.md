@@ -139,10 +139,14 @@ Escrevo conteúdos técnicos com foco em infraestrutura, Linux, suporte avançad
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats de Leonardo Azevedo" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas" />
-</p>
+<div align="center">
+  <a href="https://github.com/Azevedo1996">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats de Leonardo Azevedo" />
+  </a>
+  <a href="https://github.com/Azevedo1996">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+  </a>
+</div>
 
 ---
 
