@@ -121,7 +121,7 @@ Escrevo conteúdos técnicos com foco em infraestrutura, Linux, suporte avançad
       <h3>📊 Observability Lab</h3>
       <p>Laboratório com Zabbix, Grafana, métricas, dashboards e simulações de incidentes.</p>
       <p><strong>Status:</strong> Em construção</p>
-      <a href="https://github.com/Azevedo1996">Ver repositórios</a>
+      <a href="https://github.com/Azevedo1996/observability-lab">Ver repositórios</a>
     </td>
   </tr>
   <tr>
