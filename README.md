@@ -1,14 +1,12 @@
-<h1 align="center">Olá 👋, eu sou Leonardo Azevedo</h1>
+<div align="center">
 
-<h3 align="center">
-Analista de Infraestrutura • Linux • Microsoft 365 • Observabilidade
-</h3>
+# Olá 👋, eu sou Leonardo Azevedo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank" rel="noreferrer">
-    https://img.shields.io/badge/LinkedIn-Leonardo_Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-  </a>
-</p>
+### Analista de Infraestrutura • Linux • Microsoft 365 • Observabilidade
+
+**Linux Administration | Docker | Zabbix | Grafana | Microsoft 365 | Segurança da Informação | Automação**
+
+</div>
 
 ---
 
@@ -19,108 +17,113 @@ Analista de Infraestrutura • Linux • Microsoft 365 • Observabilidade
 - 🔐 Pós-graduado em **Segurança da Informação**
 - 🐧 Especialista em **Linux**
 - ☁️ Experiência com **Microsoft 365, Docker, Monitoramento e Automação**
-- 📊 Atuação com **Zabbix, Grafana e observabilidade**
+- 📊 Atuação com **Zabbix, Grafana e Observabilidade**
 - ⚙️ Entusiasta de automação, DevOps e infraestrutura como código
 
 ---
 
 ## 🏆 Certificações
 
-<p align="center">
-  https://img.shields.io/badge/ITIL_4-Foundation-7B42BC?style=for-the-badge
+<div align="center">
 
-  https://img.shields.io/badge/LPIC--1-Linux_Professional_Institute-E95420?style=for-the-badge&logo=linux&logoColor=white
+https://img.shields.io/badge/ITIL_4-Foundation-7B42BC?style=for-the-badge
 
-  https://img.shields.io/badge/MS--102-Microsoft_365_Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
+https://img.shields.io/badge/LPIC--1-Linux_Professional_Institute-E95420?style=for-the-badge&logo=linux&logoColor=white
 
-  https://img.shields.io/badge/MD--102-Endpoint_Administrator-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white
-</p>
+https://img.shields.io/badge/MS--102-Microsoft_365_Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
 
----
+https://img.shields.io/badge/MD--102-Endpoint_Administrator-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white
 
-## 💻 Linguagens
-
-<p align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
-  </a>
-
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 🛠️ Infraestrutura, Banco de Dados e Ferramentas
+## 📫 Entre em contato
 
-<p align="center">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  </a>
+<div align="center">
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  </a>
+<a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank" rel="noreferrer">
+  https://img.shields.io/badge/LinkedIn-Leonardo_Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+</a>
 
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
-
-  https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
-
-  https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
-
-  https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Tecnologias
 
-<p align="center">
-  ./assets/github-profile-card.svg
-</p>
+<div align="center">
 
-<p align="center">
-  ./assets/tech-focus-card.svg
-</p>
+### Linguagens
+
+https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+
+### Infraestrutura e Observabilidade
+
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
+https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
+
+### Banco de Dados e Ferramentas
+
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+
+</div>
 
 ---
 
 ## 🎯 Áreas de Especialização
 
-- 🐧 Linux Administration
-- ☁️ Microsoft 365 Administration
-- 📊 Monitoring & Observability
-- 🐳 Containers e Docker
-- 🔒 Segurança da Informação
-- ⚙️ Automação com Bash e Python
-- 📈 Zabbix & Grafana
-- 🗄️ PostgreSQL e MySQL
+<div align="center">
+
+| Área | Foco |
+|---|---|
+| 🐧 **Linux Administration** | Administração, troubleshooting, serviços e hardening |
+| ☁️ **Microsoft 365 Administration** | Administração de ambientes Microsoft 365 |
+| 📊 **Monitoring & Observability** | Monitoramento com Zabbix e Grafana |
+| 🐳 **Containers e Docker** | Ambientes conteinerizados e automação |
+| 🔒 **Segurança da Informação** | Boas práticas, controle e proteção de ambientes |
+| ⚙️ **Automação** | Scripts com Bash e Python |
+| 🗄️ **Banco de Dados** | MySQL e PostgreSQL |
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Automatizar o repetitivo, monitorar o crítico e simplificar o complexo."</i>
-</p>
+## 📌 Projetos em Destaque
+
+<div align="center">
+
+https://github.com/Azevedo1996/project-nomad-br
+  https://github-readme-stats.vercel.app/api/pin/?username=Azevedo1996&repo=project-nomad-br&theme=github_dark&hide_border=false
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+./assets/github-profile-card.svg
+
+<br><br>
+
+./assets/tech-focus-card.svg
+
+</div>
+
+---
+
+<div align="center">
+
+> “Automatizar o repetitivo, monitorar o crítico e simplificar o complexo.”
+
+</div>
