@@ -1,13 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="190" viewBox="0 0 700 190" role="img" aria-label="GitHub Profile Card">
-  <rect width="700" height="190" rx="16" fill="#0D1117" stroke="#30363D"/>
-  <text x="32" y="45" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Leonardo Azevedo</text>
-  <text x="32" y="78" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="15">Infraestrutura Linux • Observabilidade • Incident Management N3 • IAM</text>
-  <rect x="32" y="108" width="150" height="44" rx="8" fill="#161B22" stroke="#30363D"/>
-  <text x="107" y="136" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Linux</text>
-  <rect x="198" y="108" width="150" height="44" rx="8" fill="#161B22" stroke="#30363D"/>
-  <text x="273" y="136" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Zabbix/Grafana</text>
-  <rect x="364" y="108" width="150" height="44" rx="8" fill="#161B22" stroke="#30363D"/>
-  <text x="439" y="136" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Microsoft 365</text>
-  <rect x="530" y="108" width="138" height="44" rx="8" fill="#161B22" stroke="#30363D"/>
-  <text x="599" y="136" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Docker</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="170" viewBox="0 0 700 170" role="img" aria-label="Resumo técnico">
+  <rect width="700" height="170" rx="10" fill="#0D1117" stroke="#30363D"/>
+  <text x="32" y="42" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800">Leonardo Azevedo</text>
+  <text x="32" y="73" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="15">Infraestrutura Linux • Observabilidade • Incident Management N3 • IAM</text>
+  <text x="32" y="110" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="14">Linux, Zabbix, Grafana, Microsoft 365, Azure AD, Docker, automação e análise de logs.</text>
+  <text x="32" y="138" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Foco: resiliência operacional, troubleshooting, RCA e melhoria contínua.</text>
 </svg>

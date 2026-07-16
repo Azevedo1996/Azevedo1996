@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre mim
 
-Analista de Infraestrutura e Segurança da Informação com atuação em ambientes de missão crítica e alta disponibilidade, especializado em **Linux** e **Observabilidade**, com forte foco em performance, confiabilidade e resposta a incidentes.
+Analista de Infraestrutura e Segurança da Informação com atuação em ambientes de missão crítica e alta disponibilidade, especializado em **Linux** e **Observabilidade**, com foco em performance, confiabilidade, automação e resposta a incidentes.
 
 - 🐧 Administração e troubleshooting de servidores **Rocky Linux** e **Ubuntu Server**
 - 📊 Monitoramento avançado com **Zabbix** e **Grafana**
@@ -32,38 +32,47 @@ Analista de Infraestrutura e Segurança da Informação com atuação em ambient
 ## 🏆 Certificações
 
 <div align="center">
-  <img src="./assets/cert-itil4.svg" alt="ITIL 4 Foundation" height="130" />
-  <img src="./assets/cert-lpic1.svg" alt="LPIC-1 Linux Professional Institute" height="130" />
-  <img src="./assets/cert-ms102.svg" alt="MS-102 Microsoft 365 Administrator" height="130" />
-  <img src="./assets/cert-md102.svg" alt="MD-102 Endpoint Administrator" height="130" />
+  <img src="./assets/cert-itil4.svg" alt="ITIL 4 Foundation" height="135" />
+  <img src="./assets/cert-lpic1.svg" alt="LPIC-1 Linux Professional Institute" height="135" />
+  <img src="./assets/cert-ms102.svg" alt="MS-102 Microsoft 365 Administrator" height="135" />
+  <img src="./assets/cert-md102.svg" alt="MD-102 Endpoint Administrator" height="135" />
 </div>
 
 ---
 
 ## 💻 Tecnologias
 
-<div align="center">
+<div align="left">
+  <img src="./assets/badge-linux.svg" alt="Linux" height="30" />
+  <img src="./assets/badge-shell.svg" alt="Shell Script" height="30" />
+  <img src="./assets/badge-bash.svg" alt="Bash" height="30" />
+  <img src="./assets/badge-python.svg" alt="Python" height="30" />
+  <img src="./assets/badge-git.svg" alt="Git" height="30" />
+  <img src="./assets/badge-docker.svg" alt="Docker" height="30" />
+</div>
 
-### Infraestrutura, Observabilidade e Cloud
+<br>
 
-<img src="./assets/icon-linux.svg" alt="Linux" width="58" height="58" />
-<img src="./assets/icon-zabbix.svg" alt="Zabbix" width="58" height="58" />
-<img src="./assets/icon-grafana.svg" alt="Grafana" width="58" height="58" />
-<img src="./assets/icon-docker.svg" alt="Docker" width="58" height="58" />
-<img src="./assets/icon-m365.svg" alt="Microsoft 365" width="58" height="58" />
-<img src="./assets/icon-azuread.svg" alt="Azure AD" width="58" height="58" />
-<img src="./assets/icon-windows.svg" alt="Windows Server" width="58" height="58" />
-<img src="./assets/icon-intune.svg" alt="Intune SCCM" width="58" height="58" />
+**Observabilidade, Cloud e Microsoft**
 
-### Automação, Desenvolvimento e Dados
+<div align="left">
+  <img src="./assets/badge-zabbix.svg" alt="Zabbix" height="30" />
+  <img src="./assets/badge-grafana.svg" alt="Grafana" height="30" />
+  <img src="./assets/badge-m365.svg" alt="Microsoft 365" height="30" />
+  <img src="./assets/badge-azuread.svg" alt="Azure AD" height="30" />
+  <img src="./assets/badge-intune.svg" alt="Intune" height="30" />
+  <img src="./assets/badge-sccm.svg" alt="SCCM" height="30" />
+  <img src="./assets/badge-windows.svg" alt="Windows Server" height="30" />
+</div>
 
-<img src="./assets/icon-bash.svg" alt="Bash" width="58" height="58" />
-<img src="./assets/icon-python.svg" alt="Python" width="58" height="58" />
-<img src="./assets/icon-django.svg" alt="Django" width="58" height="58" />
-<img src="./assets/icon-git.svg" alt="Git" width="58" height="58" />
-<img src="./assets/icon-sqlserver.svg" alt="SQL Server" width="58" height="58" />
-<img src="./assets/icon-oracle.svg" alt="Oracle" width="58" height="58" />
+<br>
 
+**Desenvolvimento e Dados**
+
+<div align="left">
+  <img src="./assets/badge-django.svg" alt="Django" height="30" />
+  <img src="./assets/badge-sqlserver.svg" alt="SQL Server" height="30" />
+  <img src="./assets/badge-oracle.svg" alt="Oracle" height="30" />
 </div>
 
 ---
