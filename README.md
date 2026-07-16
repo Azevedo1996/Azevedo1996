@@ -50,13 +50,12 @@ Além do ecossistema Linux, possuo experiência em **IAM com Microsoft Azure AD 
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![SCCM](https://img.shields.io/badge/SCCM-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoftintune&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ### Desenvolvimento, scripts e web
 
@@ -66,18 +65,20 @@ Além do ecossistema Linux, possuo experiência em **IAM com Microsoft Azure AD 
 
 ## 🎓 Certificações e cursos
 
-![ITIL 4](https://img.shields.io/badge/ITIL%204-Certified-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)
-![LPIC-1](https://img.shields.io/badge/LPIC--1-Linux%20Professional-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MS-102](https://img.shields.io/badge/Microsoft%20MS--102-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![MD-102](https://img.shields.io/badge/Microsoft%20MD--102-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
+<p align="center">
+  <a href="#"><img src="./assets/certifications/itil-4.png" alt="ITIL 4" width="180" /></a>
+  <a href="#"><img src="./assets/certifications/lpic-1.png" alt="LPIC-1" width="180" /></a>
+  <a href="#"><img src="./assets/certifications/microsoft-ms-102.png" alt="Microsoft MS-102" width="180" /></a>
+  <a href="#"><img src="./assets/certifications/microsoft-md-102.png" alt="Microsoft MD-102" width="180" /></a>
+</p>
+  
 ---
 
 ## 🎓 Formação acadêmica
 
 - 🎓 **Bacharelado em Sistemas de Informação** — Centro Universitário UniFatecie
 - 🛡️ **Pós-graduação em Segurança da Informação** — Faculdade Focus
-- 💻 **Análise e Desenvolvimento de Sistemas** — Wyden
+- 💻 **Técnologo em Análise e Desenvolvimento de Sistemas** — Wyden
 - 📡 **Técnico em Telecomunicações** — Instituto Federal Fluminense (IFF)
 
 ---
