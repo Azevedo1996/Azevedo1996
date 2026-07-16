@@ -6,10 +6,6 @@
 
 **Rocky Linux | Ubuntu Server | Zabbix | Grafana | Microsoft 365 | Azure AD | Docker | Segurança da Informação**
 
-<a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank" rel="noreferrer">
-  <img src="./assets/linkedin-icon.svg" alt="LinkedIn" width="45" height="45" />
-</a>
-
 </div>
 
 ---
@@ -32,10 +28,21 @@ Analista de Infraestrutura e Segurança da Informação com atuação em ambient
 ## 🏆 Certificações
 
 <div align="center">
-  <img src="./assets/cert-itil4.svg" alt="ITIL 4 Foundation" height="135" />
-  <img src="./assets/cert-lpic1.svg" alt="LPIC-1 Linux Professional Institute" height="135" />
-  <img src="./assets/cert-ms102.svg" alt="MS-102 Microsoft 365 Administrator" height="135" />
-  <img src="./assets/cert-md102.svg" alt="MD-102 Endpoint Administrator" height="135" />
+  <img src="./assets/cert-itil4.png" alt="ITIL 4 Foundation" height="135" />
+  <img src="./assets/cert-lpic1.png" alt="LPIC-1 Linux Professional Institute" height="135" />
+  <img src="./assets/cert-ms102.png" alt="MS-102 Microsoft 365 Administrator" height="135" />
+  <img src="./assets/cert-md102.png" alt="MD-102 Endpoint Administrator" height="135" />
+</div>
+
+---
+
+## 📫 Conecte-se comigo
+
+<div align="center">
+  <p><strong>Clique no ícone abaixo para acessar meu LinkedIn</strong></p>
+  <a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank" rel="noreferrer">
+    <img src="./assets/linkedin-icon.png" alt="LinkedIn" width="48" height="48" />
+  </a>
 </div>
 
 ---
@@ -46,25 +53,25 @@ Analista de Infraestrutura e Segurança da Informação com atuação em ambient
 
 ### Infraestrutura, Observabilidade e Cloud
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" /></a>
-<a href="https://www.rockylinux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" alt="Rocky Linux" width="48" height="48" /></a>
-<a href="https://ubuntu.com/server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu Server" width="48" height="48" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" /></a>
-<a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/zabbix/D40000" alt="Zabbix" width="48" height="48" /></a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" width="48" height="48" /></a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="48" height="48" /></a>
-<a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoft/0078D4" alt="Microsoft 365" width="48" height="48" /></a>
-<a href="https://learn.microsoft.com/mem/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftintune/5E5ADB" alt="Microsoft Intune" width="48" height="48" /></a>
-<a href="https://www.microsoft.com/windows-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows Server" width="48" height="48" /></a>
+<img src="./assets/icon-linux.png" alt="Linux" width="56" height="56" />
+<img src="./assets/icon-rocky.png" alt="Rocky Linux" width="56" height="56" />
+<img src="./assets/icon-ubuntu.png" alt="Ubuntu Server" width="56" height="56" />
+<img src="./assets/icon-docker.png" alt="Docker" width="56" height="56" />
+<img src="./assets/icon-zabbix.png" alt="Zabbix" width="56" height="56" />
+<img src="./assets/icon-grafana.png" alt="Grafana" width="56" height="56" />
+<img src="./assets/icon-azure.png" alt="Azure" width="56" height="56" />
+<img src="./assets/icon-m365.png" alt="Microsoft 365" width="56" height="56" />
+<img src="./assets/icon-intune.png" alt="Microsoft Intune" width="56" height="56" />
+<img src="./assets/icon-windows.png" alt="Windows Server" width="56" height="56" />
 
 ### Automação, Desenvolvimento e Dados
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="48" height="48" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="48" height="48" /></a>
-<a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" width="48" height="48" /></a>
-<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" /></a>
+<img src="./assets/icon-bash.png" alt="Bash" width="56" height="56" />
+<img src="./assets/icon-python.png" alt="Python" width="56" height="56" />
+<img src="./assets/icon-django.png" alt="Django" width="56" height="56" />
+<img src="./assets/icon-git.png" alt="Git" width="56" height="56" />
+<img src="./assets/icon-sqlserver.png" alt="SQL Server" width="56" height="56" />
+<img src="./assets/icon-oracle.png" alt="Oracle" width="56" height="56" />
 
 </div>
 
@@ -94,25 +101,25 @@ Analista de Infraestrutura e Segurança da Informação com atuação em ambient
 <div align="center">
 
 <a href="https://github.com/Azevedo1996/zabbix-availability-report-automation" target="_blank" rel="noreferrer">
-  <img src="./assets/project-zabbix-availability-report-automation.svg" alt="Zabbix Availability Report Automation" width="700" />
+  <img src="./assets/project-zabbix-availability-report-automation.png" alt="Zabbix Availability Report Automation" width="700" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Azevedo1996/detetive-linux-2-fabrica-producao" target="_blank" rel="noreferrer">
-  <img src="./assets/project-detetive-linux-2-fabrica-producao.svg" alt="Detetive Linux 2" width="700" />
+  <img src="./assets/project-detetive-linux-2-fabrica-producao.png" alt="Detetive Linux 2" width="700" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Azevedo1996/detetive-linux-fabrica" target="_blank" rel="noreferrer">
-  <img src="./assets/project-detetive-linux-fabrica.svg" alt="Detetive Linux" width="700" />
+  <img src="./assets/project-detetive-linux-fabrica.png" alt="Detetive Linux" width="700" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Azevedo1996/project-nomad-br" target="_blank" rel="noreferrer">
-  <img src="./assets/project-nomad-br.svg" alt="Project N.O.M.A.D. BR" width="700" />
+  <img src="./assets/project-nomad-br.png" alt="Project N.O.M.A.D. BR" width="700" />
 </a>
 
 </div>
@@ -122,7 +129,7 @@ Analista de Infraestrutura e Segurança da Informação com atuação em ambient
 ## 📊 Resumo Técnico
 
 <div align="center">
-  <img src="./assets/github-profile-card.svg" alt="Resumo Técnico" width="700" />
+  <img src="./assets/github-profile-card.png" alt="Resumo Técnico" width="700" />
 </div>
 
 ---
