@@ -2,9 +2,13 @@
 
 # Olá 👋, eu sou Leonardo Azevedo
 
-### Analista de Infraestrutura • Linux • Observabilidade
+### Linux Specialist • Observability • Incident Management N3 • IAM
 
-**Linux Administration | Docker | Zabbix | Grafana | Segurança da Informação | Automação**
+**Rocky Linux | Ubuntu Server | Zabbix | Grafana | Microsoft 365 | Azure AD | Docker | Segurança da Informação**
+
+<a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank" rel="noreferrer">
+  <img src="./assets/linkedin-icon.svg" alt="LinkedIn" width="45" height="45" />
+</a>
 
 </div>
 
@@ -12,33 +16,26 @@
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente atuando na **Minsait Brasil**
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
-- 🔐 Pós-graduado em **Segurança da Informação**
-- 🐧 Especialista em **Linux**
-- ☁️ Experiência com **Microsoft 365, Docker, Monitoramento e Automação**
-- 📊 Atuação com **Zabbix, Grafana e Observabilidade**
-- ⚙️ Entusiasta de automação, DevOps e infraestrutura como código
+Analista de Infraestrutura e Segurança da Informação com atuação em ambientes de missão crítica e alta disponibilidade, especializado em **Linux** e **Observabilidade**, com forte foco em performance, confiabilidade e resposta a incidentes.
+
+- 🐧 Administração e troubleshooting de servidores **Rocky Linux** e **Ubuntu Server**
+- 📊 Monitoramento avançado com **Zabbix** e **Grafana**
+- 🚨 Atuação em **Incident Management N3**, SLA, RCA e análise de causa raiz
+- 🔎 Análise de logs, diagnóstico de falhas complexas e melhoria contínua
+- 🔐 Experiência com **IAM**, **Azure AD**, **Active Directory** e administração de acessos
+- 💻 Administração de endpoints com **Microsoft Endpoint Manager / Intune / SCCM**
+- 🐳 Experiência com **Docker** e automação de ambientes
+- 🛡️ Formação em Segurança da Informação e foco em resiliência operacional
 
 ---
 
 ## 🏆 Certificações
 
 <div align="center">
-  <img src="./assets/cert-itil4.svg" alt="ITIL 4 Foundation" height="72" />
-  <img src="./assets/cert-lpic1.svg" alt="LPIC-1 Linux Professional Institute" height="72" />
-  <img src="./assets/cert-ms102.svg" alt="MS-102 Microsoft 365 Administrator" height="72" />
-  <img src="./assets/cert-md102.svg" alt="MD-102 Endpoint Administrator" height="72" />
-</div>
-
----
-
-## 📫 Entre em contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank" rel="noreferrer">
-    <img src="./assets/contact-linkedin.svg" alt="LinkedIn Leonardo Azevedo" height="72" />
-  </a>
+  <img src="./assets/cert-itil4.svg" alt="ITIL 4 Foundation" height="130" />
+  <img src="./assets/cert-lpic1.svg" alt="LPIC-1 Linux Professional Institute" height="130" />
+  <img src="./assets/cert-ms102.svg" alt="MS-102 Microsoft 365 Administrator" height="130" />
+  <img src="./assets/cert-md102.svg" alt="MD-102 Endpoint Administrator" height="130" />
 </div>
 
 ---
@@ -47,25 +44,25 @@
 
 <div align="center">
 
-### Linguagens
+### Infraestrutura, Observabilidade e Cloud
 
-<img src="./assets/tech-bash.svg" alt="Bash" height="56" />
-<img src="./assets/tech-python.svg" alt="Python" height="56" />
-<img src="./assets/tech-php.svg" alt="PHP" height="56" />
+<img src="./assets/icon-linux.svg" alt="Linux" width="58" height="58" />
+<img src="./assets/icon-zabbix.svg" alt="Zabbix" width="58" height="58" />
+<img src="./assets/icon-grafana.svg" alt="Grafana" width="58" height="58" />
+<img src="./assets/icon-docker.svg" alt="Docker" width="58" height="58" />
+<img src="./assets/icon-m365.svg" alt="Microsoft 365" width="58" height="58" />
+<img src="./assets/icon-azuread.svg" alt="Azure AD" width="58" height="58" />
+<img src="./assets/icon-windows.svg" alt="Windows Server" width="58" height="58" />
+<img src="./assets/icon-intune.svg" alt="Intune SCCM" width="58" height="58" />
 
-### Infraestrutura e Observabilidade
+### Automação, Desenvolvimento e Dados
 
-<img src="./assets/tech-linux.svg" alt="Linux" height="56" />
-<img src="./assets/tech-docker.svg" alt="Docker" height="56" />
-<img src="./assets/tech-zabbix.svg" alt="Zabbix" height="56" />
-<img src="./assets/tech-grafana.svg" alt="Grafana" height="56" />
-<img src="./assets/tech-m365.svg" alt="Microsoft 365" height="56" />
-
-### Banco de Dados e Ferramentas
-
-<img src="./assets/tech-git.svg" alt="Git" height="56" />
-<img src="./assets/tech-mysql.svg" alt="MySQL" height="56" />
-<img src="./assets/tech-postgresql.svg" alt="PostgreSQL" height="56" />
+<img src="./assets/icon-bash.svg" alt="Bash" width="58" height="58" />
+<img src="./assets/icon-python.svg" alt="Python" width="58" height="58" />
+<img src="./assets/icon-django.svg" alt="Django" width="58" height="58" />
+<img src="./assets/icon-git.svg" alt="Git" width="58" height="58" />
+<img src="./assets/icon-sqlserver.svg" alt="SQL Server" width="58" height="58" />
+<img src="./assets/icon-oracle.svg" alt="Oracle" width="58" height="58" />
 
 </div>
 
@@ -77,13 +74,14 @@
 
 | Área | Foco |
 |---|---|
-| 🐧 **Linux Administration** | Administração, troubleshooting, serviços e hardening |
-| ☁️ **Microsoft 365 Administration** | Administração de ambientes Microsoft 365 |
-| 📊 **Monitoring & Observability** | Monitoramento com Zabbix e Grafana |
-| 🐳 **Containers e Docker** | Ambientes conteinerizados e automação |
-| 🔒 **Segurança da Informação** | Boas práticas, controle e proteção de ambientes |
-| ⚙️ **Automação** | Scripts com Bash e Python |
-| 🗄️ **Banco de Dados** | MySQL e PostgreSQL |
+| 🐧 **Linux Administration** | Rocky Linux, Ubuntu Server, serviços, performance e troubleshooting |
+| 📊 **Observability & Monitoring** | Zabbix, Grafana, métricas, triggers, dashboards e alertas |
+| 🚨 **Incident Management N3** | NOC, SLA, RCA, continuidade operacional e resposta a incidentes |
+| 🔎 **Log Analysis** | Syslog, journalctl, logs de serviços e diagnóstico de falhas |
+| 🔐 **IAM** | Azure AD, Active Directory, grupos, usuários e políticas de acesso |
+| 💻 **Endpoint Management** | Microsoft Endpoint Manager, Intune e SCCM |
+| 🐳 **Containers** | Docker, padronização e automação de ambientes |
+| 🛡️ **Segurança da Informação** | Redução de riscos, hardening e melhoria contínua |
 
 </div>
 
@@ -92,19 +90,37 @@
 ## 📌 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/Azevedo1996/project-nomad-br" target="_blank" rel="noreferrer">
-    <img src="./assets/project-nomad-br-card.svg" alt="Project Nomad BR" width="700" />
-  </a>
+
+<a href="https://github.com/Azevedo1996/zabbix-availability-report-automation" target="_blank" rel="noreferrer">
+  <img src="./assets/project-zabbix-availability-report-automation.svg" alt="Zabbix Availability Report Automation" width="700" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Azevedo1996/detetive-linux-2-fabrica-producao" target="_blank" rel="noreferrer">
+  <img src="./assets/project-detetive-linux-2-fabrica-producao.svg" alt="Detetive Linux 2" width="700" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Azevedo1996/detetive-linux-fabrica" target="_blank" rel="noreferrer">
+  <img src="./assets/project-detetive-linux-fabrica.svg" alt="Detetive Linux" width="700" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Azevedo1996/project-nomad-br" target="_blank" rel="noreferrer">
+  <img src="./assets/project-nomad-br.svg" alt="Project N.O.M.A.D. BR" width="700" />
+</a>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Resumo Técnico
 
 <div align="center">
-  <img src="./assets/github-profile-card.svg" alt="GitHub Profile" width="700" />
-  <br><br>
-  <img src="./assets/tech-focus-card.svg" alt="Linguagens e Tecnologias" width="700" />
+  <img src="./assets/github-profile-card.svg" alt="Resumo Técnico" width="700" />
 </div>
 
 ---

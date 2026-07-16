@@ -1,6 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="72" viewBox="0 0 220 72" role="img" aria-label="ITIL 4">
-  <rect width="220" height="72" rx="12" fill="#0D1117" stroke="#30363D"/>
-  <circle cx="36" cy="36" r="20" fill="#7B42BC"/><text x="36" y="41" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">ITIL</text>
-  <text x="68" y="32" text-anchor="start" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">ITIL 4</text>
-  <text x="110.0" y="52" text-anchor="middle" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="12">Foundation</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150" role="img" aria-label="ITIL 4 FOUNDATION">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#7b42bc" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <path d="M75 8 L126 27 L120 92 C116 119 96 137 75 145 C54 137 34 119 30 92 L24 27 Z" fill="url(#g)" stroke="#c9d1d9" stroke-width="3"/>
+  <path d="M36 38 H114 V92 H36 Z" fill="#161b22" opacity="0.84" stroke="#30363d"/>
+  <circle cx="75" cy="35" r="18" fill="#7b42bc" stroke="#f0f6fc" stroke-width="2"/>
+  <text x="75" y="41" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">ITIL</text>
+  <text x="75" y="70" text-anchor="middle" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">ITIL 4</text>
+  <text x="75" y="90" text-anchor="middle" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">FOUNDATION</text>
+  <rect x="44" y="105" width="62" height="10" rx="5" fill="#7b42bc"/>
 </svg>

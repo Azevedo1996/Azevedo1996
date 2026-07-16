@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Git">
+      <rect width="72" height="72" rx="16" fill="#161b22" stroke="#30363d"/>
+      <circle cx="36" cy="30" r="18" fill="#f05032"/>
+      <text x="36" y="36" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">Git</text>
+      <text x="36" y="61" text-anchor="middle" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700">Git</text>
+    </svg>
