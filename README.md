@@ -2,9 +2,9 @@
 
 # Olá 👋, eu sou Leonardo Azevedo
 
-### Analista de Infraestrutura • Linux • Microsoft 365 • Observabilidade
+### Analista de Infraestrutura • Linux • Observabilidade
 
-**Linux Administration | Docker | Zabbix | Grafana | Microsoft 365 | Segurança da Informação | Automação**
+**Linux Administration | Docker | Zabbix | Grafana | Segurança da Informação | Automação**
 
 </div>
 
@@ -25,15 +25,10 @@
 ## 🏆 Certificações
 
 <div align="center">
-
-https://img.shields.io/badge/ITIL_4-Foundation-7B42BC?style=for-the-badge
-
-https://img.shields.io/badge/LPIC--1-Linux_Professional_Institute-E95420?style=for-the-badge&logo=linux&logoColor=white
-
-https://img.shields.io/badge/MS--102-Microsoft_365_Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
-
-https://img.shields.io/badge/MD--102-Endpoint_Administrator-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white
-
+  <img src="./assets/cert-itil4.svg" alt="ITIL 4 Foundation" height="72" />
+  <img src="./assets/cert-lpic1.svg" alt="LPIC-1 Linux Professional Institute" height="72" />
+  <img src="./assets/cert-ms102.svg" alt="MS-102 Microsoft 365 Administrator" height="72" />
+  <img src="./assets/cert-md102.svg" alt="MD-102 Endpoint Administrator" height="72" />
 </div>
 
 ---
@@ -41,11 +36,9 @@ https://img.shields.io/badge/MD--102-Endpoint_Administrator-5E5E5E?style=for-the
 ## 📫 Entre em contato
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank" rel="noreferrer">
-  https://img.shields.io/badge/LinkedIn-Leonardo_Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-</a>
-
+  <a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank" rel="noreferrer">
+    <img src="./assets/contact-linkedin.svg" alt="LinkedIn Leonardo Azevedo" height="72" />
+  </a>
 </div>
 
 ---
@@ -56,23 +49,23 @@ https://img.shields.io/badge/MD--102-Endpoint_Administrator-5E5E5E?style=for-the
 
 ### Linguagens
 
-https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+<img src="./assets/tech-bash.svg" alt="Bash" height="56" />
+<img src="./assets/tech-python.svg" alt="Python" height="56" />
+<img src="./assets/tech-php.svg" alt="PHP" height="56" />
 
 ### Infraestrutura e Observabilidade
 
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
-https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
-https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
+<img src="./assets/tech-linux.svg" alt="Linux" height="56" />
+<img src="./assets/tech-docker.svg" alt="Docker" height="56" />
+<img src="./assets/tech-zabbix.svg" alt="Zabbix" height="56" />
+<img src="./assets/tech-grafana.svg" alt="Grafana" height="56" />
+<img src="./assets/tech-m365.svg" alt="Microsoft 365" height="56" />
 
 ### Banco de Dados e Ferramentas
 
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+<img src="./assets/tech-git.svg" alt="Git" height="56" />
+<img src="./assets/tech-mysql.svg" alt="MySQL" height="56" />
+<img src="./assets/tech-postgresql.svg" alt="PostgreSQL" height="56" />
 
 </div>
 
@@ -99,11 +92,9 @@ https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=w
 ## 📌 Projetos em Destaque
 
 <div align="center">
-
-https://github.com/Azevedo1996/project-nomad-br
-  https://github-readme-stats.vercel.app/api/pin/?username=Azevedo1996&repo=project-nomad-br&theme=github_dark&hide_border=false
-</a>
-
+  <a href="https://github.com/Azevedo1996/project-nomad-br" target="_blank" rel="noreferrer">
+    <img src="./assets/project-nomad-br-card.svg" alt="Project Nomad BR" width="700" />
+  </a>
 </div>
 
 ---
@@ -111,13 +102,9 @@ https://github.com/Azevedo1996/project-nomad-br
 ## 📊 GitHub Stats
 
 <div align="center">
-
-./assets/github-profile-card.svg
-
-<br><br>
-
-./assets/tech-focus-card.svg
-
+  <img src="./assets/github-profile-card.svg" alt="GitHub Profile" width="700" />
+  <br><br>
+  <img src="./assets/tech-focus-card.svg" alt="Linguagens e Tecnologias" width="700" />
 </div>
 
 ---

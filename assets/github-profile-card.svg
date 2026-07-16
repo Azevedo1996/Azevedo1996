@@ -1,18 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="220" viewBox="0 0 520 220">
-  <rect width="520" height="220" rx="14" fill="#1A1B27" stroke="#30363D"/>
-  <rect x="24" y="24" width="472" height="4" rx="2" fill="#70A5FD"/>
-  <text x="26" y="62" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">GitHub Profile</text>
-  <text x="26" y="92" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="14">Azevedo1996</text>
-
-  <rect x="26" y="118" width="140" height="58" rx="10" fill="#0F172A" stroke="#334155"/>
-  <text x="42" y="142" fill="#70A5FD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Foco</text>
-  <text x="42" y="162" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Infra Linux</text>
-
-  <rect x="190" y="118" width="140" height="58" rx="10" fill="#0F172A" stroke="#334155"/>
-  <text x="206" y="142" fill="#BF91F3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Stack</text>
-  <text x="206" y="162" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Docker Zabbix</text>
-
-  <rect x="354" y="118" width="140" height="58" rx="10" fill="#0F172A" stroke="#334155"/>
-  <text x="370" y="142" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Observab.</text>
-  <text x="370" y="162" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Grafana</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="190" viewBox="0 0 700 190" role="img" aria-label="GitHub Profile Card">
+  <rect width="700" height="190" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <text x="32" y="45" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Leonardo Azevedo</text>
+  <text x="32" y="78" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="15">Analista de Infraestrutura • Linux • Microsoft 365 • Observabilidade</text>
+  <rect x="32" y="108" width="160" height="44" rx="8" fill="#161B22" stroke="#30363D"/>
+  <text x="112" y="136" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Linux</text>
+  <rect x="212" y="108" width="160" height="44" rx="8" fill="#161B22" stroke="#30363D"/>
+  <text x="292" y="136" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Microsoft 365</text>
+  <rect x="392" y="108" width="160" height="44" rx="8" fill="#161B22" stroke="#30363D"/>
+  <text x="472" y="136" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Zabbix/Grafana</text>
 </svg>

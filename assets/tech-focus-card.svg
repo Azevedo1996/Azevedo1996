@@ -1,26 +1,10 @@
-<svg width="520" height="220" viewBox="0 0 520 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="520" y2="220" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1A1B27"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-  </defs>
-  <rect width="520" height="220" rx="14" fill="url(#bg)" stroke="#30363D"/>
-  <text x="26" y="44" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Linguagens e Tecnologias</text>
-  <text x="26" y="72" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="14">Stack em destaque no perfil</text>
-  <g transform="translate(30,105)">
-    <rect width="360" height="18" rx="9" fill="#0F172A"/>
-    <rect width="170" height="18" rx="9" fill="#3776AB"/>
-    <text x="378" y="14" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="13">Python</text>
-  </g>
-  <g transform="translate(30,137)">
-    <rect width="360" height="18" rx="9" fill="#0F172A"/>
-    <rect width="125" height="18" rx="9" fill="#777BB4"/>
-    <text x="378" y="14" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="13">PHP</text>
-  </g>
-  <g transform="translate(30,169)">
-    <rect width="360" height="18" rx="9" fill="#0F172A"/>
-    <rect width="205" height="18" rx="9" fill="#4EAA25"/>
-    <text x="378" y="14" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="13">Shell/Bash</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="210" viewBox="0 0 700 210" role="img" aria-label="Tech Focus Card">
+  <rect width="700" height="210" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <text x="32" y="42" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Foco Técnico</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#C9D1D9">
+    <text x="32" y="82">🐧 Administração Linux, hardening e troubleshooting</text>
+    <text x="32" y="114">☁️ Administração Microsoft 365 e modern workplace</text>
+    <text x="32" y="146">📊 Monitoramento, observabilidade, Zabbix e Grafana</text>
+    <text x="32" y="178">⚙️ Automação com Bash, Python, Docker e Git</text>
   </g>
 </svg>
