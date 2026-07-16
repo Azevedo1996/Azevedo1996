@@ -4,15 +4,19 @@
 
 **Infraestrutura crítica, alta disponibilidade, segurança e melhoria contínua para ambientes on-premises e cloud.**
 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azevedo-leonardo/)
 
-![Linux](https://img.shields.io/badge/Linux-Infraestrutura-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Zabbix](https://img.shields.io/badge/Zabbix-Observability-D40000?style=flat-square&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-IAM%20%7C%20Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL%204-Incident%20Management-7C3AED?style=flat-square)
+<br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,grafana,docker,azure,windows,git,github,python&perline=10" alt="Linux, Ubuntu, Bash, Grafana, Docker, Azure, Windows, Git, GitHub e Python" />
+  </a>
+</p>
+
+</div>
 ---
 
 ## 👨‍💻 Sobre mim
