@@ -5,8 +5,8 @@ Analista de Infraestrutura • Linux • Microsoft 365 • Observabilidade
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank">
-    .io/badge/LinkedIn-Leonardo_Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/azevedo-leonardo/" target="_blank" rel="noreferrer">
+    https://img.shields.io/badge/LinkedIn-Leonardo_Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
   </a>
 </p>
 
@@ -27,15 +27,13 @@ Analista de Infraestrutura • Linux • Microsoft 365 • Observabilidade
 ## 🏆 Certificações
 
 <p align="center">
+  https://img.shields.io/badge/ITIL_4-Foundation-7B42BC?style=for-the-badge
 
-  .io/badge/ITIL_4-Foundation-7B42BC?style=for-the-badge" />
+  https://img.shields.io/badge/LPIC--1-Linux_Professional_Institute-E95420?style=for-the-badge&logo=linux&logoColor=white
 
-  ://img.shields.io/badge/LPIC--1-Linux_Professional_Institute-E95420?style=for-the-badge&logo=linux&logoColor=white" />
+  https://img.shields.io/badge/MS--102-Microsoft_365_Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
 
-  <img src="https://img.shields.io/badge/MS--102-Microsoft_365_Administrator-0078D4?style=for-the-badge&logo=microsoft=white
-
-  <img src="https://img.shields.io/badge/MD--102-Endpoint_Administrator-5E5E5E-the-badge&logo=microsoft&logoColor=white
-
+  https://img.shields.io/badge/MD--102-Endpoint_Administrator-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white
 </p>
 
 ---
@@ -43,41 +41,57 @@ Analista de Infraestrutura • Linux • Microsoft 365 • Observabilidade
 ## 💻 Linguagens
 
 <p align="center">
-  /devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
-  ://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
+  </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Infraestrutura e Ferramentas
+## 🛠️ Infraestrutura, Banco de Dados e Ferramentas
 
 <p align="center">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  </a>
 
-  ://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  </a>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
+  </a>
 
-  icon/master/icons/grafana/grafana-original.svg" width="50" height="50" alt="Grafana"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  </a>
 
-  <img srccdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  </a>
 
-  /devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
-
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
 
-  .io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+  https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
 
-  <img src="https://img.shields.io/badge/6800?style=for-the-badge&logo=grafana&logoColor=white
+  https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
 
-  <img src="https://img.shields.io/osoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
-
-  ://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
+  https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 </p>
 
 ---
@@ -85,25 +99,25 @@ Analista de Infraestrutura • Linux • Microsoft 365 • Observabilidade
 ## 📈 GitHub Stats
 
 <p align="center">
-  assets/github-profile-card.svg" alt="GitHub Profile" width="700"/>
+  ./assets/github-profile-card.svg
 </p>
 
 <p align="center">
-  ./assets/tech-focus-card.svg width="700"/>
+  ./assets/tech-focus-card.svg
 </p>
 
 ---
 
 ## 🎯 Áreas de Especialização
 
-🐧 Linux Administration  
-☁️ Microsoft 365 Administration  
-📊 Monitoring & Observability  
-🐳 Containers e Docker  
-🔒 Segurança da Informação  
-⚙️ Automação com Bash e Python  
-📈 Zabbix & Grafana  
-🗄️ PostgreSQL e MySQL
+- 🐧 Linux Administration
+- ☁️ Microsoft 365 Administration
+- 📊 Monitoring & Observability
+- 🐳 Containers e Docker
+- 🔒 Segurança da Informação
+- ⚙️ Automação com Bash e Python
+- 📈 Zabbix & Grafana
+- 🗄️ PostgreSQL e MySQL
 
 ---
 
