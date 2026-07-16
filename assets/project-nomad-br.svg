@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="150" viewBox="0 0 700 150" role="img" aria-label="project-nomad-br">
-  <rect width="700" height="150" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <rect x="0" y="0" width="8" height="150" rx="4" fill="#8957E5"/>
-  <text x="28" y="40" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800">project-nomad-br</text>
-  <text x="28" y="73" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="14">Versão brasileira paralela do Project N.O.M.A.D. para conhecimento offline e self-hosted.</text>
-  <rect x="28" y="104" width="570" height="28" rx="4" fill="#161b22" stroke="#30363d"/>
-  <text x="44" y="123" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Docker • Linux • Self-hosted • Offline Knowledge</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="150" viewBox="0 0 700 150" role="img" aria-label="project-nomad-br"><rect width="700" height="150" rx="10" fill="#0d1117" stroke="#30363d"/><rect x="0" y="0" width="8" height="150" rx="4" fill="#8957E5"/><text x="28" y="40" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800">project-nomad-br</text><text x="28" y="73" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="14">Versão brasileira paralela do Project N.O.M.A.D. para conhecimento offline e self-hosted.</text><rect x="28" y="104" width="570" height="28" rx="4" fill="#161b22" stroke="#30363d"/><text x="44" y="123" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Docker • Linux • Self-hosted • Offline Knowledge</text></svg>

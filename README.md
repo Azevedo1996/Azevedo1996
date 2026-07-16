@@ -42,37 +42,30 @@ Analista de Infraestrutura e Segurança da Informação com atuação em ambient
 
 ## 💻 Tecnologias
 
-<div align="left">
-  <img src="./assets/badge-linux.svg" alt="Linux" height="30" />
-  <img src="./assets/badge-shell.svg" alt="Shell Script" height="30" />
-  <img src="./assets/badge-bash.svg" alt="Bash" height="30" />
-  <img src="./assets/badge-python.svg" alt="Python" height="30" />
-  <img src="./assets/badge-git.svg" alt="Git" height="30" />
-  <img src="./assets/badge-docker.svg" alt="Docker" height="30" />
-</div>
+<div align="center">
 
-<br>
+### Infraestrutura, Observabilidade e Cloud
 
-**Observabilidade, Cloud e Microsoft**
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" /></a>
+<a href="https://www.rockylinux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" alt="Rocky Linux" width="48" height="48" /></a>
+<a href="https://ubuntu.com/server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu Server" width="48" height="48" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" /></a>
+<a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/zabbix/D40000" alt="Zabbix" width="48" height="48" /></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" width="48" height="48" /></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="48" height="48" /></a>
+<a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoft/0078D4" alt="Microsoft 365" width="48" height="48" /></a>
+<a href="https://learn.microsoft.com/mem/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftintune/5E5ADB" alt="Microsoft Intune" width="48" height="48" /></a>
+<a href="https://www.microsoft.com/windows-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows Server" width="48" height="48" /></a>
 
-<div align="left">
-  <img src="./assets/badge-zabbix.svg" alt="Zabbix" height="30" />
-  <img src="./assets/badge-grafana.svg" alt="Grafana" height="30" />
-  <img src="./assets/badge-m365.svg" alt="Microsoft 365" height="30" />
-  <img src="./assets/badge-azuread.svg" alt="Azure AD" height="30" />
-  <img src="./assets/badge-intune.svg" alt="Intune" height="30" />
-  <img src="./assets/badge-sccm.svg" alt="SCCM" height="30" />
-  <img src="./assets/badge-windows.svg" alt="Windows Server" height="30" />
-</div>
+### Automação, Desenvolvimento e Dados
 
-<br>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="48" height="48" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="48" height="48" /></a>
+<a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" width="48" height="48" /></a>
+<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" /></a>
 
-**Desenvolvimento e Dados**
-
-<div align="left">
-  <img src="./assets/badge-django.svg" alt="Django" height="30" />
-  <img src="./assets/badge-sqlserver.svg" alt="SQL Server" height="30" />
-  <img src="./assets/badge-oracle.svg" alt="Oracle" height="30" />
 </div>
 
 ---
