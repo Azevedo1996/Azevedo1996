@@ -6,13 +6,13 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azevedo-leonardo/)
+[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azevedo-leonardo/)
 
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,grafana,docker,azure,windows,git,github,python&perline=10" alt="Linux, Ubuntu, Bash, Grafana, Docker, Azure, Windows, Git, GitHub e Python" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,grafana,docker,azure,windows,git,github,python&perline=10" alt="Linux, Bash, Grafana, Docker, Azure, Windows, Git, GitHub e Python" />
   </a>
 </p>
 
@@ -171,4 +171,3 @@ Docker • Windows Server • SCCM • Intune • Oracle • SQL Server • Auto
 
 ### Vamos conectar infraestrutura, segurança e observabilidade para manter ambientes críticos mais resilientes.
 
-[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azevedo-leonardo/)
