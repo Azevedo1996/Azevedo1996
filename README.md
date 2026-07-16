@@ -140,12 +140,18 @@ Escrevo conteúdos técnicos com foco em infraestrutura, Linux, suporte avançad
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Azevedo1996">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats de Leonardo Azevedo" />
-  </a>
-  <a href="https://github.com/Azevedo1996">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azevedo1996&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats de Leonardo Azevedo" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo1996&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Azevedo1996&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azevedo1996&theme=github-dark&hide_border=true&area=true" alt="Gráfico de contribuição no GitHub" />
+
 </div>
 
 ---
