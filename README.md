@@ -115,7 +115,7 @@ Escrevo conteúdos técnicos com foco em infraestrutura, Linux, suporte avançad
       <h3>🐧 Linux Automation Toolkit</h3>
       <p>Scripts e automações para administração, diagnóstico e padronização de ambientes Linux.</p>
       <p><strong>Status:</strong> Em construção</p>
-      <a href="https://github.com/Azevedo1996">Ver repositórios</a>
+      <a href="https://github.com/Azevedo1996/linux-automation-toolkit">Ver repositórios</a>
     </td>
     <td width="50%" valign="top">
       <h3>📊 Observability Lab</h3>
