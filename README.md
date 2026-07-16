@@ -12,12 +12,6 @@
   <a href="https://www.linkedin.com/in/azevedo-leonardo/">
     <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Azevedo1996">
-    <img src="https://img.shields.io/badge/GitHub-Azevedo1996-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:devleonardoazevedo@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-devleonardoazevedo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
 </p>
 
 <p align="center">
@@ -94,13 +88,6 @@ Além do ecossistema Linux, possuo experiência em **IAM com Microsoft Azure AD 
   <img src="https://img.shields.io/badge/LPIC--1-Linux%20Professional-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LPIC-1" />
   <img src="https://img.shields.io/badge/Microsoft%20MS--102-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS-102" />
   <img src="https://img.shields.io/badge/Microsoft%20MD--102-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MD-102" />
-  <img src="https://img.shields.io/badge/Administrando%20Microsoft%20Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office 365" />
-  <img src="https://img.shields.io/badge/Intro%20to%20Machine%20Learning-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Machine Learning" />
-  <img src="https://img.shields.io/badge/Git%20e%20GitHub-DIO-EC7000?style=for-the-badge&logo=git&logoColor=white" alt="Git e GitHub DIO" />
-  <img src="https://img.shields.io/badge/Coding%20Tank-Let's%20Code-111827?style=for-the-badge" alt="Coding Tank" />
-  <img src="https://img.shields.io/badge/Technical%20Support%20Fundamentals-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Technical Support" />
-  <img src="https://img.shields.io/badge/Power%20BI%20Completo-Do%20B%C3%A1sico%20ao%20Avan%C3%A7ado-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Completo" />
-  <img src="https://img.shields.io/badge/Desenvolvedor%20BackEnd-PHP%207-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 7" />
 </p>
 
 ---
@@ -134,11 +121,6 @@ Além do ecossistema Linux, possuo experiência em **IAM com Microsoft Azure AD 
 - Gerenciamento de chamados, resolução e escalonamento de incidentes de software, hardware, rede e aplicações corporativas.
 - Atendimento a ambientes corporativos com foco em SLA, registro técnico e continuidade do serviço.
 
-### Experiência anterior em Telecomunicações
-
-- Atuação técnica em projetos de telecomunicações, cabeamento estruturado, instalação, operação e manutenção de sistemas.
-- Experiência com análise de cenários, antecipação de falhas, melhoria de processos e suporte técnico em campo.
-
 ---
 
 ## 🎓 Formação acadêmica
@@ -146,7 +128,6 @@ Além do ecossistema Linux, possuo experiência em **IAM com Microsoft Azure AD 
 - 🎓 **Bacharelado em Sistemas de Informação** — Centro Universitário UniFatecie
 - 🛡️ **Pós-graduação em Segurança da Informação** — Faculdade Focus
 - 💻 **Análise e Desenvolvimento de Sistemas** — Wyden
-- 📊 **Formação em Data Science** — Let's Code / Ada Tech
 - 📡 **Técnico em Telecomunicações** — Instituto Federal Fluminense (IFF)
 
 ---
@@ -236,15 +217,3 @@ Docker • Windows Server • SCCM • Intune • Oracle • SQL Server • Auto
 <h3 align="center">
   Vamos conectar infraestrutura, segurança e observabilidade para manter ambientes críticos mais resilientes.
 </h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/azevedo-leonardo/">
-    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Azevedo1996">
-    <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:devleonardoazevedo@gmail.com">
-    <img src="https://img.shields.io/badge/Enviar%20e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-</p>
