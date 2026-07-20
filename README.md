@@ -135,7 +135,7 @@ Escrevo conteúdos técnicos com foco em infraestrutura, Linux, suporte avançad
       <h3>🐳 Docker On-Prem Lab</h3>
       <p>Ambientes containerizados para estudos, testes e padronização de serviços locais.</p>
       <p><strong>Status:</strong> Em construção</p>
-      <a href="https://github.com/Azevedo1996">Ver repositórios</a>
+      <a href="https://github.com/Azevedo1996/docker-on-prem-lab">Ver repositórios</a>
     </td>
   </tr>
 </table>
